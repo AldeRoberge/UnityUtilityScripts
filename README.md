@@ -1,2 +1,2 @@
 # UnityUtilityScripts
-Collection of unity utility scripts.
+Collection of Unity utility scripts.
